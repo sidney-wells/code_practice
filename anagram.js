@@ -1,4 +1,4 @@
-// anagram challenge 
+// anagram challenge = frequencyCounter
 
 function validAnagram(str1, str2) {
     // if the lengths are not equal, they are not anagrams
