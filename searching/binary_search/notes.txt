@@ -1,0 +1,3 @@
+Binary search (only works with sorted arrays) 
+- looks for half way point and ask, is value before or after / greater than or less than?
+- eliminates half each time / Divide and Conquer
