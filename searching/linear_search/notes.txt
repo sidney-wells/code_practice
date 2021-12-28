@@ -1,0 +1,5 @@
+Linear Search - set interval 1 number at a time
+- indexOf
+- find
+- includes
+- findIndex
