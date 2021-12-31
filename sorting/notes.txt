@@ -1,3 +1,9 @@
 Sorting is rearranging items in a collection
 Important to know because sorting is a common task and there are many ways to do this
 
+Bubble sort - swapping the adjacent elements
+Selection sort - repeatedly finding the minimum element and putting it at the beginning
+Insertion sort - elements are compared with each other sequentially and then arranged simultaneously in some particular order
+Merge sort - split array into two halves, calls itself for the two halves, and then merges the two sorted halves
+Quick sort - 
+Radix sort - 
